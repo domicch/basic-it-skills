@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Digital Safety Course
-email: safety@example.com
+title: Computer Skills for Everyone
+email: skills@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Learn essential skills to stay safe online and on mobile devices.
+  Learn essential computer and technology skills for everyday life.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 

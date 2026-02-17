@@ -4,9 +4,9 @@ title: Safety Courses
 permalink: /courses/
 ---
 
-# Safety Courses
+# All Courses
 
-Learn essential skills to stay safe online and on mobile devices.
+Master practical computer and technology skills to navigate the digital world with confidence.
 
 <div class="courses-grid">
 {% assign sorted_courses = site.data.courses.courses | sort: "order" %}
