@@ -1,0 +1,36 @@
+courses:
+  - id: phishing-scams
+    title: "Phishing & Scams"
+    order: 1
+    icon: "🎣"
+    description: "Learn to identify and avoid phishing emails and online scams"
+
+  - id: password-security
+    title: "Password Security"
+    order: 2
+    icon: "🔐"
+    description: "Create strong passwords and manage them safely"
+
+  - id: malware-prevention
+    title: "Malware Prevention"
+    order: 3
+    icon: "🛡️"
+    description: "Protect your devices from viruses and malware"
+
+  - id: social-media-safety
+    title: "Social Media Safety"
+    order: 4
+    icon: "👥"
+    description: "Stay safe on social media platforms"
+
+  - id: mobile-security
+    title: "Mobile Phone Security"
+    order: 5
+    icon: "📱"
+    description: "Secure your smartphone and tablets"
+
+  - id: online-shopping
+    title: "Online Shopping Security"
+    order: 6
+    icon: "🛒"
+    description: "Shop safely online and protect your financial information"
