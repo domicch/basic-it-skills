@@ -35,8 +35,3 @@ courses:
     icon: "📱"
     description: "Secure your smartphone and tablets"
 
-  - id: online-shopping
-    title: "Online Shopping Security"
-    order: 7
-    icon: "🛒"
-    description: "Shop safely online and protect your financial information"
