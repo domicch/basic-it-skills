@@ -15,7 +15,7 @@ Master practical computer and technology skills to navigate the digital world wi
     <div class="course-icon">{{ course.icon }}</div>
     <h2>{{ course.title }}</h2>
     <p>{{ course.description }}</p>
-    <a href="/courses/{{ course.id }}/" class="btn btn-primary">Start Course</a>
+    <a href="{{ '/courses/' | relative_url }}{{ course.id }}/" class="btn btn-primary">Start Course</a>
   </div>
 {% endfor %}
 </div>

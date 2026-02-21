@@ -25,7 +25,7 @@ This course covers a wide range of practical topics:
 3. **Apply what you learn** — Practice the tips in your daily digital life
 4. **Come back anytime** — Return to any lesson if you need a refresher
 
-**Ready to get started?** [View All Courses](/courses/)
+**Ready to get started?** [View All Courses]({{ '/courses/' | relative_url }})
 
 ---
 
