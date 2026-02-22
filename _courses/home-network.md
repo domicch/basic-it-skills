@@ -21,19 +21,7 @@ Without a home network, each device would need its own separate internet connect
 
 When you connect to the internet at home, several devices work together. Here's how they fit together:
 
-```
-    INTERNET
-       ↓
-   [MODEM]  ← Converts internet signal for your home
-       ↓
-   [ROUTER] ← Creates your home network
-     ↙ ↓ ↘
-   /  |  \
-[PC] [Phone] [Printer] [Tablet] [Smart TV]
-  ↓     ↓        ↓         ↓       ↓
-WiFi/  WiFi/   Ethernet  WiFi    WiFi
-Cable  Cable             Cable
-```
+<img src="{{ '/assets/network_diagram.png' | relative_url }}" alt="Home Network Diagram" style="max-width: 100%; height: auto; display: block; margin: 20px auto;">
 
 Let's look at what each one does:
 
