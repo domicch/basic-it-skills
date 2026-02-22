@@ -35,3 +35,9 @@ courses:
     icon: "📱"
     description: "Secure your smartphone and tablets"
 
+  - id: internet-safety-kids
+    title: "Internet Safety for Kids"
+    order: 7
+    icon: "👶"
+    description: "Learn how to stay safe online and protect yourself from strangers, scams, and fake websites"
+
